@@ -1,0 +1,7 @@
+Germán Andrade -> Kitchen Manager
+Daniel Beltrán -> Assistant Manager
+Alejandra Sáncchez -> Host:
+
+Kitchen Manager: this person is responsible to verify and modify all recipes (when all recipes already to be in the repo)
+Assistant Manager:  this person is responsible to verify and modify all the prices (when all dishes already to be in the menu)
+Host: this person is responsible to modify the menu to make more fun to read (not modify dishes or prices) when everithing is done, and the other two roles finished their jobs. 
